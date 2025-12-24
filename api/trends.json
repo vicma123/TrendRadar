@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T17:32:46.505100+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2025-12-24T18:31:24.023269+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -82,8 +82,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 17时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 18时31分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -115,6 +115,20 @@
           "time_info": "[00时36分 ~ 05时26分]"
         },
         {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
           "url": "https://wallstreetcn.com/articles/3761916",
           "source": "华尔街见闻",
@@ -141,20 +155,6 @@
           "time_info": "[04时30分 ~ 13时32分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 17时32分]"
-        },
-        {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
           "url": "https://www.cls.cn/detail/2238272",
           "source": "财联社热门",
@@ -179,6 +179,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 10时06分]"
+        },
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时31分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -216,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -461,6 +462,17 @@
           "time_info": "[02时40分 ~ 03时23分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "解析美军制造特朗普级战舰",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%86%9B%E5%88%B6%E9%80%A0%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -478,7 +490,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -563,7 +575,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -589,6 +601,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 14时45分]"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "UiPath美股盘后涨5.4%。",
@@ -751,6 +774,18 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时31分]"
+        },
+        {
           "title": "金价癫了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -761,17 +796,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 11时29分]"
-        },
-        {
-          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "金十图示：2025年12月24日（周三）上海金午盘价为1008.94元/克，较国际金价(1012.11元/克)，低3.17元/克",
@@ -886,6 +910,48 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
+          "url": "https://www.toutiao.com/trending/7587300342778301988/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 18时31分]"
+        },
+        {
+          "title": "伊朗在安理会感谢中国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时29分]"
+        },
+        {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -897,8 +963,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时31分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -914,32 +980,19 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
-          "url": "https://www.toutiao.com/trending/7587300342778301988/",
-          "source": "今日头条",
+          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3026145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时32分]"
-        },
-        {
-          "title": "伊朗在安理会感谢中国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 11时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     },
