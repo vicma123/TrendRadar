@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T15:29:33.935678+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-12-25T16:38:39.143988+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 16时38分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -120,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 16时38分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
@@ -173,7 +173,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -235,6 +235,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时40分 ~ 05时26分]"
+        },
+        {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -379,7 +390,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
