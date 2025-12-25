@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:31:40.733918+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2025-12-25T19:25:55.631891+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时25分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时25分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -99,18 +99,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -168,6 +157,18 @@
           "time_info": "[03时23分 ~ 06时28分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时25分]"
+        },
+        {
           "title": "特朗普为何强调新战列舰不针对中国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%BC%BA%E8%B0%83%E6%96%B0%E6%88%98%E5%88%97%E8%88%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -206,8 +207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时11分 ~ 19时25分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -230,11 +231,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时43分 ~ 19时25分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -366,7 +368,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗代表：感谢中俄",
@@ -405,6 +407,17 @@
           "time_info": "[00时35分 ~ 01时25分]"
         },
         {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "市场消息：伊朗拒绝接受对遭轰炸地点的核查，并要求国际原子能机构澄清立场。",
           "url": "https://flash.jin10.com/detail/20251224230933012800",
           "source": "金十数据",
@@ -419,7 +432,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -456,6 +469,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 12时03分]"
+        },
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },
