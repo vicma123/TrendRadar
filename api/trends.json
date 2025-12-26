@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T13:31:24.285949+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2025-12-26T14:43:19.987791+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,19 @@
           "time_info": "07时27分"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时43分]"
+        },
+        {
           "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
           "url": "https://flash.jin10.com/detail/20251226070308886800",
           "source": "金十数据",
@@ -96,19 +109,6 @@
           "time_info": "[02时40分 ~ 06时28分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时31分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -130,19 +130,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时43分]"
         },
         {
           "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
           "url": "https://flash.jin10.com/detail/20251226130524809800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时43分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -170,7 +171,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -212,8 +213,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时43分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -237,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
@@ -342,8 +354,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 13时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时43分]"
         }
       ]
     },
