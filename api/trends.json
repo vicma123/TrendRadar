@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T16:36:26.599252+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-12-28T17:29:09.763730+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -70,6 +70,42 @@
           "time_info": "[00时34分 ~ 07时26分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 17时29分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 17时29分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -79,18 +115,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 03时22分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 16时36分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -103,18 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 12时13分]"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时36分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -235,8 +247,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 17时29分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -318,7 +330,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
@@ -348,8 +360,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 17时29分]"
         }
       ]
     },
