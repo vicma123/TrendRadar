@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:34:46.321686+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2026-01-05T23:33:40.355017+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 89,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时21分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 23时33分]"
         },
         {
           "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时35分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[18时35分 ~ 23时33分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -65,11 +65,12 @@
             5,
             1,
             2,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时42分 ~ 22时34分]"
+          "appearance_count": 8,
+          "time_info": "[17时42分 ~ 23时33分]"
         },
         {
           "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
@@ -107,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 23时33分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -270,6 +271,18 @@
           "time_info": "[16时44分 ~ 18时35分]"
         },
         {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时35分 ~ 23时33分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
           "url": "https://wallstreetcn.com/livenews/3030327",
           "source": "华尔街见闻-快讯",
@@ -327,17 +340,6 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时35分 ~ 22时34分]"
-        },
-        {
           "title": "如何看待特朗普每天服用过量阿司匹林",
           "url": "https://www.toutiao.com/trending/7591309116983742003/",
           "source": "今日头条",
@@ -383,7 +385,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -394,7 +396,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -539,6 +541,18 @@
           "time_info": "[19时27分 ~ 21时03分]"
         },
         {
+          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
+          "url": "https://www.cls.cn/detail/2248057",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时33分]"
+        },
+        {
           "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
           "url": "https://news.ifeng.com/c/8peoOMfJqxB",
           "source": "凤凰网",
@@ -574,17 +588,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时27分]"
-        },
-        {
-          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
-          "url": "https://www.cls.cn/detail/2248057",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时34分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普在委内瑞拉的行为虽属非法，但符合其一贯捍卫美国利益的作风。",
@@ -682,6 +685,18 @@
           "time_info": "[17时42分 ~ 18时35分]"
         },
         {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时33分]"
+        },
+        {
           "title": "美军委内瑞拉行动引发党争 民主党人呼吁弹劾特朗普",
           "url": "https://www.cls.cn/detail/2247292",
           "source": "财联社热门",
@@ -703,6 +718,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时32分]"
+        },
+        {
+          "title": "特朗普一天之内威胁多国",
+          "url": "https://www.toutiao.com/trending/7591841454150913599/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时33分]"
         },
         {
           "title": "特朗普暗示可能对墨西哥采取行动",
@@ -763,6 +790,39 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我对伊朗的立场与特朗普一致，我们绝不允许伊朗进行铀浓缩活动。",
+          "url": "https://flash.jin10.com/detail/20260105231851320800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
+          "url": "https://flash.jin10.com/detail/20260105231438346800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "日本首相高市早苗：将与美国保持各层级密切沟通；已收到特朗普的访美邀请。",
           "url": "https://flash.jin10.com/detail/20260105140242641800",
           "source": "金十数据",
@@ -816,17 +876,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
-        },
-        {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "特朗普政府施压石油巨头：若想追回欠款，必须大举投资委内瑞拉！",
@@ -884,6 +933,17 @@
           "time_info": "19时28分"
         },
         {
+          "title": "委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）在马斯克旗下社交媒体平台X（原名推特）上感谢美国总统特朗普。 称委国将成为美国在安全与能源方面的盟友。",
+          "url": "https://wallstreetcn.com/livenews/3030956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "特朗普一天之内威胁多国，被指“将世界带入地缘政治的蛮荒西部”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32316957",
           "source": "澎湃新闻",
@@ -901,7 +961,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -923,7 +983,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -983,15 +1043,15 @@
           "time_info": "10时32分"
         },
         {
-          "title": "特朗普一天之内威胁多国",
-          "url": "https://www.toutiao.com/trending/7591841454150913599/",
-          "source": "今日头条",
+          "title": "墨西哥总统辛鲍姆：暂时不打算与美国总统特朗普通话。",
+          "url": "https://wallstreetcn.com/livenews/3030942",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "23时33分"
         },
         {
           "title": "哥伦比亚总统：特朗普请停止诽谤",
@@ -1019,7 +1079,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -1031,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美股三大股指期货周一小幅高开。",
@@ -1055,13 +1126,25 @@
           "time_info": "17时42分"
         },
         {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时33分]"
+        },
+        {
           "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1072,7 +1155,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1086,17 +1169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "分析师：委内瑞拉局势或成美股美元长期利好",
@@ -1127,7 +1199,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1149,15 +1221,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "能源业ETF涨超3%，领跑美股行业ETF，此前美国掳走委内瑞拉总统，特朗普宣布投资委国石油",
+          "url": "https://wallstreetcn.com/livenews/3030945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "美股无视委国变局领跑首周 市场静待非农就业数据",
+          "url": "https://flash.jin10.com/detail/20260105230128432800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -1203,6 +1297,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
+          "url": "https://flash.jin10.com/detail/20260105232040593800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
@@ -1280,7 +1385,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1291,7 +1396,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
