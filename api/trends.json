@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:02:26.017156+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-01-16T22:33:06.502932+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 97,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -38,11 +38,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时46分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[14时46分 ~ 22时33分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -91,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 22时33分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -107,6 +108,31 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[07时29分 ~ 19时28分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 22时33分]"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时33分]"
         },
         {
           "title": "俄回应特朗普对伊朗贸易伙伴加税",
@@ -129,18 +155,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 04时36分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 21时02分]"
         },
         {
           "title": "美国正向中东增派包括航母在内的兵力，特朗普希望任何对伊朗的军事行动均为“快速、决定性打击”",
@@ -220,16 +234,28 @@
           "time_info": "10时22分"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            17
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时35分 ~ 21时02分]"
+          "time_info": "[19时27分 ~ 22时33分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时27分 ~ 22时33分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -378,18 +404,6 @@
           "time_info": "[02时49分 ~ 04时36分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
           "url": "https://wallstreetcn.com/livenews/3038164",
           "source": "华尔街见闻-快讯",
@@ -440,17 +454,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时31分 ~ 10时22分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -681,6 +684,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "特朗普将于下周在达沃斯公布401(k)住房投资计划",
+          "url": "https://flash.jin10.com/detail/20260116220514229800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
           "url": "https://flash.jin10.com/detail/20260116002253912800",
           "source": "金十数据",
@@ -734,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "报道：特朗普下周将借达沃斯场合公布利用401(k)支付购房首付的计划",
+          "url": "https://wallstreetcn.com/livenews/3038874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "据AXIOS记者：尽管目前看来美国对伊朗发动打击并非迫在眉睫，但一名熟悉相关情况的美国消息人士称，所有人都知道，特朗普一直“把手指放在按钮上”（准备好打击）。",
@@ -822,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美媒：特朗普称美国“甚至不该”举行中期选举，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3038864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
@@ -956,6 +992,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "特朗普暂缓对关键矿产进口征收新关税 白银市场出现获利了结和价格回撤",
+          "url": "https://flash.jin10.com/detail/20260116215118029800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "特朗普回应被赠诺奖奖章",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%A0%E8%AF%BA%E5%A5%96%E5%A5%96%E7%AB%A0%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1011,6 +1058,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "美指走高和特朗普对伊威胁缓解推动金银价格双双下跌",
+          "url": "https://flash.jin10.com/detail/20260116214827667800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
           "url": "https://wallstreetcn.com/livenews/3038415",
           "source": "华尔街见闻-快讯",
@@ -1022,6 +1080,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "据Politico：美国众议院共和党人自行设定的禁止投票挑战特朗普关税政策的禁令将于本月底到期。",
+          "url": "https://flash.jin10.com/detail/20260116214324557800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "特朗普：作为“和平委员会”主席 支持巴勒斯坦技术官僚委员会",
           "url": "https://wallstreetcn.com/livenews/3038330",
           "source": "华尔街见闻-快讯",
@@ -1031,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "委内瑞拉反对派领导人马查多：委内瑞拉人“支持美国总统特朗普的行动”。",
+          "url": "https://flash.jin10.com/detail/20260116214042937800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
@@ -1047,7 +1127,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -1059,6 +1139,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 07时29分]"
+        },
+        {
+          "title": "中方代表就伊朗局势发声：呼吁美方放下武力执念",
+          "url": "https://news.ifeng.com/c/8pxoIN8xmXt",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时33分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -1087,11 +1179,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时40分 ~ 21时02分]"
+          "appearance_count": 24,
+          "time_info": "[01时40分 ~ 22时33分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -1169,18 +1262,6 @@
           "time_info": "[00时45分 ~ 07时29分]"
         },
         {
-          "title": "中方代表就伊朗局势发声：呼吁美方放下武力执念",
-          "url": "https://news.ifeng.com/c/8pxoIN8xmXt",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 21时02分]"
-        },
-        {
           "title": "美国财政部对伊朗实施新制裁",
           "url": "https://www.douyin.com/hot/2369134",
           "source": "抖音",
@@ -1233,6 +1314,17 @@
           "time_info": "[10时22分 ~ 15时33分]"
         },
         {
+          "title": "上合组织就伊朗局势发布声明",
+          "url": "https://news.ifeng.com/c/8py8L49uSQu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
+        },
+        {
           "title": "中方呼吁美方对伊朗放下武力执念",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
           "source": "百度热搜",
@@ -1245,6 +1337,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时22分 ~ 15时33分]"
+        },
+        {
+          "title": "普京与内塔尼亚胡就伊朗局势通电话",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 22时33分]"
         },
         {
           "title": "克里姆林宫：普京与伊朗总统通了电话，并将继续努力缓和地区局势。",
@@ -1275,7 +1379,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1337,17 +1441,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 03时32分]"
-        },
-        {
-          "title": "普京与内塔尼亚胡就伊朗局势通电话",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时02分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
@@ -1543,6 +1636,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "塞尔维亚外交部呼吁本国公民离开伊朗",
+          "url": "https://wallstreetcn.com/livenews/3038852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "克里姆林宫：普京同内塔尼亚胡就伊朗局势通话",
           "url": "https://flash.jin10.com/detail/20260116174602945800",
           "source": "金十数据",
@@ -1637,7 +1741,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -1645,7 +1749,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1656,8 +1760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时22分 ~ 21时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时22分 ~ 22时33分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1828,6 +1932,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "Riot Platforms与AMD签订数据中心租赁协议。 其中包括初步部署25 MW算力，可能会扩张至200 MW算力的选项。 预计这笔交易将带来3.11亿美元承包收入，如果全面扩张可能会达到大约10亿美元。 Riot将在Rockdale购买200英亩土地，交易金额0.96亿美元。 Riot美股盘前涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3038870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3038653",
           "source": "华尔街见闻-快讯",
@@ -1837,6 +1952,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3038861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116214314914800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -1881,8 +2018,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时22分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时22分 ~ 22时33分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
