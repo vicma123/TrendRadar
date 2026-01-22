@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T22:39:29.663918+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2026-01-22T23:40:07.599499+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 202,
+      "match_count": 204,
       "titles": [
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[02时54分 ~ 13时37分]"
+        },
+        {
+          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
+          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 23时40分]"
         },
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -42,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时26分 ~ 22时39分]"
+          "appearance_count": 17,
+          "time_info": "[10时26分 ~ 23时40分]"
         },
         {
           "title": "特朗普称“美国拥有无人知晓的武器”，克宫表态",
@@ -115,17 +126,6 @@
           "time_info": "[10时26分 ~ 15时36分]"
         },
         {
-          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
-          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 22时39分]"
-        },
-        {
           "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
           "url": "https://wallstreetcn.com/articles/3763814",
           "source": "华尔街见闻",
@@ -162,8 +162,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时36分 ~ 22时39分]"
+          "appearance_count": 15,
+          "time_info": "[13时36分 ~ 23时40分]"
         },
         {
           "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
@@ -199,8 +199,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时34分 ~ 22时39分]"
+          "appearance_count": 18,
+          "time_info": "[07时34分 ~ 23时40分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -210,11 +210,12 @@
             6,
             11,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时26分 ~ 22时39分]"
+          "appearance_count": 17,
+          "time_info": "[10时26分 ~ 23时40分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -257,6 +258,19 @@
           "time_info": "[12时14分 ~ 19时31分]"
         },
         {
+          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
+          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 23时40分]"
+        },
+        {
           "title": "伊朗警告特朗普",
           "url": "https://www.douyin.com/hot/2375552",
           "source": "抖音",
@@ -282,6 +296,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时37分 ~ 23时40分]"
         },
         {
           "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
@@ -310,19 +335,6 @@
           "time_info": "[01时07分 ~ 07时34分]"
         },
         {
-          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
-          "url": "https://news.ifeng.com/c/8q7huMODUfi",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 22时39分]"
-        },
-        {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
           "url": "https://www.cls.cn/detail/2265774",
           "source": "财联社热门",
@@ -335,17 +347,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时26分 ~ 15时36分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时37分 ~ 22时39分]"
         },
         {
           "title": "丹麦外长：丹麦方面拒绝特朗普提出的就收购格陵兰岛进行谈判的要求。",
@@ -422,7 +423,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -491,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        },
+        {
+          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
+          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时07分 ~ 23时40分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统助理乌沙科夫将在俄罗斯总统普京会见美国总统特使威特科夫和特朗普女婿库什纳后举行简报会。",
@@ -797,15 +809,27 @@
           "time_info": "[03时35分 ~ 05时36分]"
         },
         {
-          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
-          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
-          "source": "凤凰网",
+          "title": "特朗普180度转折，欧洲懵了",
+          "url": "https://wallstreetcn.com/articles/3763911",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时39分]"
+          "time_info": "[22时39分 ~ 23时40分]"
+        },
+        {
+          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
+          "url": "https://news.ifeng.com/c/8q88cGpXCla",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时39分 ~ 23时40分]"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）我希望北约确实会保卫美国。北约希望为所有人提供安全。",
@@ -1320,6 +1344,17 @@
           "time_info": "[18时37分 ~ 18时38分]"
         },
         {
+          "title": "马克龙戴太阳镜亮相遭特朗普调侃",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%88%B4%E5%A4%AA%E9%98%B3%E9%95%9C%E4%BA%AE%E7%9B%B8%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普再提北约秘书长叫他爸爸",
           "url": "https://flash.jin10.com/detail/20260122065443877800",
           "source": "金十数据",
@@ -1502,7 +1537,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1516,28 +1551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "特朗普180度转折，欧洲懵了",
-          "url": "https://wallstreetcn.com/articles/3763911",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
-          "url": "https://news.ifeng.com/c/8q88cGpXCla",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
         },
         {
           "title": "意大利总理梅洛尼：无法立即加入美国总统特朗普的和平委员会，需要更多时间来审议。",
@@ -1579,7 +1592,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1612,7 +1625,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1700,7 +1713,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1986,9 +1999,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
+        },
+        {
+          "title": "阿尔巴尼亚议会批准加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260122231334439800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "特朗普：心中选定的美联储主席可能只剩一位，希望能像格林斯潘",
@@ -2074,7 +2098,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2250,7 +2274,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2383,8 +2407,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时26分 ~ 22时39分]"
+          "appearance_count": 17,
+          "time_info": "[10时26分 ~ 23时40分]"
         },
         {
           "title": "行业ETF美股盘初普遍走高，网络股指数ETF涨1.8%，全球航空业ETF、半导体ETF、全球科技股指数ETF、科技行业ETF至少涨1.12%。",
@@ -2393,7 +2417,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2585,7 +2609,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2640,7 +2664,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         }
@@ -2648,7 +2672,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美总统威胁将伊朗从地球上抹去",
@@ -2665,6 +2689,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗议长称该国所有城市已恢复和平",
+          "url": "https://wallstreetcn.com/livenews/3042180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "伊朗军官：伊朗领土遭袭将令所有美军基地成合法攻击目标",
@@ -2724,6 +2759,17 @@
           "time_info": "[18时37分 ~ 19时31分]"
         },
         {
+          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
           "title": "据官方媒体：与伊朗内政部有关联的高级安全机构将与动乱相关的死亡人数定为3117人。",
           "url": "https://flash.jin10.com/detail/20260122022052391800",
           "source": "金十数据",
@@ -2745,6 +2791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3042165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "伊朗克尔曼省发生4.4级地震",
@@ -2885,7 +2942,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -2895,8 +2952,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时26分 ~ 22时39分]"
+          "appearance_count": 17,
+          "time_info": "[10时26分 ~ 23时40分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -2920,6 +2977,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
+          "title": "美国PCE通胀数据发布后，标普500指数维持大约0.3%的涨幅，持稳于日低附近。 美国10年期国债收益率回落至接近4.26%的水平，涨幅收窄至不足2个基点，北京时间22:55（美联储青睐的PCE通胀指标发布前五分钟）还曾刷新日高至4.2747%。 两年期美债收益率维持超过2.3个基点的涨幅，持稳于日高3.6143%附近。 现货黄金维持0.1%的涨幅，持稳于4840美元下方。 美元指数维持0.2%的跌幅，持稳于日低98.528点附近，处于14:55以来持续下挫的“趋势”之中。",
+          "url": "https://wallstreetcn.com/livenews/3042173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "加拿大安大略省教师养老基金减少美元、美债的敞口",
