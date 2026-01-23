@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T07:31:00.963919+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-01-23T10:22:39.387641+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 93,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时22分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时22分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -52,19 +52,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时22分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时22分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -99,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时22分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -185,6 +186,17 @@
           "time_info": "[00时45分 ~ 01时38分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
           "url": "https://wallstreetcn.com/livenews/3042228",
           "source": "华尔街见闻-快讯",
@@ -227,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "特朗普：和平委员会撤回对加拿大的邀请。",
+          "url": "https://wallstreetcn.com/livenews/3042464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "法国用特朗普表情包回怼特朗普",
@@ -446,13 +469,24 @@
           "time_info": "[03时31分 ~ 03时32分]"
         },
         {
+          "title": "特朗普态度为何突然转变",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%81%E5%BA%A6%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%BD%AC%E5%8F%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "美国众议院以微弱优势通过一项决议，旨在约束美国总统特朗普的委内瑞拉战争权力。",
           "url": "https://flash.jin10.com/detail/20260123063443929800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -496,7 +530,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -510,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普提出动用北约保护美国南部边境",
+          "url": "https://wallstreetcn.com/livenews/3042452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "美国总统特朗普呼吁起诉美国前特别检察官杰克·史密斯。",
@@ -633,6 +678,17 @@
           "time_info": "06时32分"
         },
         {
+          "title": "美国总统特朗普：和平委员会撤回对加拿大总理卡尼的邀请。",
+          "url": "https://flash.jin10.com/detail/20260123095220368800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "美国总统特朗普：正密切关注伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260123055619480800",
           "source": "金十数据",
@@ -650,9 +706,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普：和平委员会撤回此前向加拿大总理卡尼发出的关于加拿大加入该组织的邀请。",
+          "url": "https://flash.jin10.com/detail/20260123095147381800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "美国总统特朗普：美国将申办2035年世界博览会。",
@@ -727,7 +794,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -782,7 +849,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -793,7 +860,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -818,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "美国总统特朗普称，美联储在鲍威尔任期内受到伤害并失去信誉。",
+          "url": "https://wallstreetcn.com/livenews/3042433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "乌克兰总统泽连斯基：经济协议几乎已准备就绪，并已与美国总统特朗普讨论了自由贸易区事宜。",
@@ -963,6 +1041,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "特朗普称俄乌还停不了火",
+          "url": "https://www.toutiao.com/trending/7597226524269576238/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "特朗普称与泽连斯基会晤“非常好”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E6%99%A4%E2%80%9C%E9%9D%9E%E5%B8%B8%E5%A5%BD%E2%80%9D",
           "source": "百度热搜",
@@ -1021,11 +1110,12 @@
           "url": "https://www.cls.cn/detail/2267129",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 10时22分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
@@ -1122,7 +1212,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -1144,7 +1234,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -1415,7 +1505,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
@@ -1433,6 +1523,17 @@
           "time_info": "[00时45分 ~ 07时31分]"
         },
         {
+          "title": "以媒称美近日或袭伊朗",
+          "url": "https://www.douyin.com/hot/2376219",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
           "title": "伊朗议长称该国所有城市已恢复和平",
           "url": "https://wallstreetcn.com/livenews/3042180",
           "source": "华尔街见闻-快讯",
@@ -1442,6 +1543,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：5000美元的金价预测面临着哪些阻力？",
+          "url": "https://flash.jin10.com/detail/20260123101411035800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -1467,19 +1596,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3042361",
-          "source": "华尔街见闻-快讯",
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "10时22分"
         }
       ]
     }
