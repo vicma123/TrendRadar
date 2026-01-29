@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T17:54:58.502279+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-01-29T18:48:38.800850+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -107,8 +107,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 18时48分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -341,6 +341,29 @@
           "time_info": "[01时40分 ~ 02时49分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时48分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "特朗普政府将召集高管，讨论加密货币立法。 白宫将于下周一会见银行业高管和加密货币行业高管。（路透）",
           "url": "https://wallstreetcn.com/livenews/3045766",
           "source": "华尔街见闻-快讯",
@@ -380,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -460,17 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "鲍威尔：（鉴于特朗普的司法部发起刑事调查）拒绝置评国会山关键共和党人Thom Tillis发誓要阻挠美联储主席提名人的立场。 美联储独立性这种立法安排已经让美联储很好地服务于美国。 不相信美联储会（因为特朗普而）丧失独立性。 我的同僚们和我本人都强烈致力于维护独立性。",
@@ -586,7 +598,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -648,6 +660,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗军队新装备1000架战略无人机",
+          "url": "https://wallstreetcn.com/livenews/3046399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗接收俄罗斯装备",
@@ -734,6 +757,50 @@
           "time_info": "[12时45分 ~ 13时53分]"
         },
         {
+          "title": "欧盟外交官：欧盟部长通过了新的针对个人和实体的伊朗制裁措施，以回应伊朗的镇压行动。",
+          "url": "https://flash.jin10.com/detail/20260129183437583800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "伊朗陆军列装1000架新型战略无人机 提升多域作战反击能力",
+          "url": "https://flash.jin10.com/detail/20260129183406948800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "评论员：伊朗数千枚导弹待命迎战",
+          "url": "https://www.toutiao.com/trending/7600705793888882186/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方接收1000架战略无人机的采购。",
+          "url": "https://flash.jin10.com/detail/20260129182049979800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
           "url": "https://flash.jin10.com/detail/20260129000336275800",
           "source": "金十数据",
@@ -743,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊证实，外交部长将于周五前往土耳其。",
+          "url": "https://flash.jin10.com/detail/20260129181450090800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "中国代表：支持伊朗国家稳定，武力解决不了问题",
@@ -800,6 +878,17 @@
           "time_info": "12时45分"
         },
         {
+          "title": "克里姆林宫：仍有潜力就伊朗问题进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260129180824056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "伊朗外交部长阿拉奇：伊朗武装部队已严阵以待，手指扣在扳机上，随时准备对任何“侵略”作出回应。",
           "url": "https://flash.jin10.com/detail/20260129015006499800",
           "source": "金十数据",
@@ -809,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "克里姆林宫：对伊朗使用武力可能在该地区引发混乱，并导致极其危险的后果。",
+          "url": "https://flash.jin10.com/detail/20260129180804973800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗最高领袖的顾问表示，伊朗对任何美国打击的回应将是立即的、全面的且前所未有的。",
@@ -831,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "克里姆林宫：敦促伊朗危机各方保持克制，避免使用武力。",
+          "url": "https://flash.jin10.com/detail/20260129180659006800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -902,7 +1013,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -995,7 +1106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1039,7 +1150,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1053,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "业绩增长不及预期 微软美股盘前下跌",
+          "url": "https://flash.jin10.com/detail/20260129181234274800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "（美股）费城金银指数收涨2.38%，报451.13点。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.13%，报3196.53点。 （美股）原材料指数收跌0.29%，金属与矿业指数收跌0.05%。",
@@ -1124,7 +1246,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1181,8 +1303,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时48分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1217,11 +1339,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 18时48分]"
         },
         {
           "title": "金价波动",
@@ -1305,6 +1428,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
           "url": "https://wallstreetcn.com/livenews/3045814",
           "source": "华尔街见闻-快讯",
@@ -1363,11 +1497,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -1402,11 +1537,12 @@
           "url": "https://wallstreetcn.com/livenews/3046359",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时48分]"
         },
         {
           "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
@@ -1415,7 +1551,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1426,7 +1562,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
