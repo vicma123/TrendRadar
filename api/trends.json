@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T22:43:17.443454+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2026-01-30T23:44:48.184207+08:00",
+  "total_titles_processed": 2048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 111,
+      "match_count": 117,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时47分 ~ 22时43分]"
+          "appearance_count": 14,
+          "time_info": "[12时47分 ~ 23时44分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时01分 ~ 22时43分]"
+          "appearance_count": 11,
+          "time_info": "[15时01分 ~ 23时44分]"
         },
         {
           "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
@@ -91,6 +91,17 @@
           "time_info": "[00时54分 ~ 05时37分]"
         },
         {
+          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
+          "url": "https://www.cls.cn/detail/2276051",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时42分 ~ 23时44分]"
+        },
+        {
           "title": "特朗普：将开放委内瑞拉领空",
           "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
           "source": "凤凰网",
@@ -100,6 +111,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时42分 ~ 17时53分]"
+        },
+        {
+          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
+          "url": "https://wallstreetcn.com/articles/3764603",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时42分 ~ 23时44分]"
         },
         {
           "title": "特朗普威胁对加拿大飞机加征50%关税",
@@ -114,26 +136,31 @@
           "time_info": "[10时42分 ~ 17时53分]"
         },
         {
-          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
-          "url": "https://www.cls.cn/detail/2276051",
-          "source": "财联社热门",
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            18,
+            16,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
+          "appearance_count": 7,
+          "time_info": "[19时36分 ~ 23时44分]"
         },
         {
-          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
-          "url": "https://wallstreetcn.com/articles/3764603",
-          "source": "华尔街见闻",
+          "title": "特朗普提名沃什担任美联储主席",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            2,
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 23时44分]"
         },
         {
           "title": "特朗普：计划30日公布美联储下任主席提名",
@@ -202,19 +229,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时36分 ~ 22时43分]"
-        },
-        {
           "title": "美媒：特朗普与民主党就资金问题达成协议，以避免政府停摆",
           "url": "https://flash.jin10.com/detail/20260130071806657800",
           "source": "金十数据",
@@ -224,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "特朗普提名凯文·沃什担任美联储主席",
+          "url": "https://news.ifeng.com/c/8qLGm417qYM",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 23时44分]"
         },
         {
           "title": "美国参议院民主党成员Warren：特朗普的提名意在夺取美联储的控制权。 呼吁特朗普停止对美联储鲍威尔和库克的迫害。 敦促共和党不要在司法部调查结束之前支持美联储的任命人选。",
@@ -237,17 +262,15 @@
           "time_info": "21时14分"
         },
         {
-          "title": "特朗普提名沃什担任美联储主席",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "bilibili 热搜",
+          "title": "非洲股市收盘播报｜周五（1月30日），南非富时/JSE非洲领先40可交易指数收跌4.52%，刷新日低、逼近11.2万点，开盘跳水、随后持续走低，在特朗普宣布凯文·沃什为美联储主席提名人之际脱离历史最高位，本周累计下跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3047474",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            23,
-            19
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时13分 ~ 22时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
@@ -300,15 +323,17 @@
           "time_info": "[06时37分 ~ 12时48分]"
         },
         {
-          "title": "特朗普提名凯文·沃什担任美联储主席",
-          "url": "https://news.ifeng.com/c/8qLGm417qYM",
-          "source": "凤凰网",
+          "title": "特朗普：提名凯文·沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276010",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时13分 ~ 22时43分]"
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 23时44分]"
         },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
@@ -456,16 +481,26 @@
           "time_info": "[03时38分 ~ 04时40分]"
         },
         {
-          "title": "特朗普：提名凯文·沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276010",
-          "source": "财联社热门",
+          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
+          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时13分 ~ 22时43分]"
+          "appearance_count": 3,
+          "time_info": "[22时42分 ~ 23时44分]"
+        },
+        {
+          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
+          "url": "https://www.zhihu.com/question/2000660435238613290",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时42分 ~ 23时44分]"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -492,6 +527,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时40分]"
+        },
+        {
+          "title": "特朗普起诉美政府部门",
+          "url": "https://www.douyin.com/hot/2383706",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 23时44分]"
         },
         {
           "title": "美国总统特朗普：下周将宣布美联储主席人选。",
@@ -555,17 +603,6 @@
           "time_info": "[21时13分 ~ 21时14分]"
         },
         {
-          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
-          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
           "url": "https://flash.jin10.com/detail/20260130031506457800",
           "source": "金十数据",
@@ -590,17 +627,6 @@
           "time_info": "[00时55分 ~ 01时45分]"
         },
         {
-          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
-          "url": "https://www.zhihu.com/question/2000660435238613290",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
-        },
-        {
           "title": "加拿大总理卡尼：希望美国政府尊重加拿大主权。美国总统特朗普从未向我提及阿尔伯塔省或魁北克省分离主义的可能性。",
           "url": "https://flash.jin10.com/detail/20260130031318071800",
           "source": "金十数据",
@@ -611,18 +637,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时40分]"
-        },
-        {
-          "title": "特朗普起诉美政府部门",
-          "url": "https://www.douyin.com/hot/2383706",
-          "source": "抖音",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时45分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -793,7 +807,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -875,6 +889,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "加拿大工业部长Joly：我们不会（针对特朗普政府）将飞机认证政治化。",
+          "url": "https://wallstreetcn.com/livenews/3047464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普：将在美国和墨西哥安排我和墨西哥总统辛鲍姆的会谈。",
           "url": "https://wallstreetcn.com/livenews/3046597",
           "source": "华尔街见闻-快讯",
@@ -884,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普政府正表现出“超级的财政责任感”。",
+          "url": "https://flash.jin10.com/detail/20260130232535649800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "特朗普最新回应美军机南海坠毁，“有可能是燃油出了问题”",
@@ -1161,6 +1197,17 @@
           "time_info": "01时45分"
         },
         {
+          "title": "俄方：普京收到了特朗普的请求",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普：已告知委内瑞拉总统，我们将开放委内瑞拉上空的空域，美国很快就能前往访问了。",
           "url": "https://flash.jin10.com/detail/20260130004620646800",
           "source": "金十数据",
@@ -1200,7 +1247,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1227,6 +1274,17 @@
           "time_info": "21时14分"
         },
         {
+          "title": "庞巴迪多伦多股价暴跌19.70%，至少创4月4日以来最差盘中表现，至147.56（加元），逼近11月14日底部142.40。 1月29日盘后，该公司声明称，关注到美国总统特朗普的帖子，正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3047446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
           "url": "https://flash.jin10.com/detail/20260130063308194800",
           "source": "金十数据",
@@ -1247,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "俄总统特别代表德米特里耶夫：乌克兰和欧洲需要全力支持特朗普的和平计划，而不是互相指责。",
+          "url": "https://flash.jin10.com/detail/20260130231202336800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
@@ -1288,9 +1357,407 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "伊朗随时准备“扣动扳机”",
+          "url": "https://news.ifeng.com/c/8qKNo2ddMDD",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 16时52分]"
+        },
+        {
+          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            14,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时01分 ~ 23时44分]"
+        },
+        {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 07时35分]"
+        },
+        {
+          "title": "美军兵临城下，伊朗如何反击？",
+          "url": "https://news.ifeng.com/c/8qL149kv1KE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时45分 ~ 23时44分]"
+        },
+        {
+          "title": "伊朗将在霍尔木兹海峡实弹军演",
+          "url": "https://news.ifeng.com/c/8qLFoaR3TwV",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "美国财长贝森特：伊朗政权正将被盗资金汇往全球各地的银行。",
+          "url": "https://flash.jin10.com/detail/20260130233617220800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "普京表示正密切关注伊朗问题相关进展",
+          "url": "https://www.toutiao.com/trending/7600644867940974598/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18,
+            24,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时40分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：欧盟国家军队将被视为恐怖组织",
+          "url": "https://wallstreetcn.com/livenews/3047475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国财长贝森特：将继续针对伊朗网络和精英。",
+          "url": "https://flash.jin10.com/detail/20260130233518830800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国宣布对伊朗最新制裁措施",
+          "url": "https://flash.jin10.com/detail/20260130233352008800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "伊朗外交部声明：以最强烈措辞谴责欧盟对革命卫队作出“非法且毫无根据”的认定。将一国官方军事机构列为“恐怖组织”是危险之举。伊朗人民保留对其采取对等措施以回应欧盟决定的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260130040147239800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，任何对伊朗的攻击都将立即遭到果断回应。佩泽希齐扬在与阿联酋总统的电话交谈中表示，伊朗始终选择通过互动和对话解决问题，不欢迎任何形式的战争。",
+          "url": "https://flash.jin10.com/detail/20260130190228935800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
+          "url": "https://www.cls.cn/detail/2274975",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 15时01分]"
+        },
+        {
+          "title": "曝伊朗4万吨“航母”出动",
+          "url": "https://www.toutiao.com/trending/7601069328506555931/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时37分]"
+        },
+        {
+          "title": "伊朗足协：无人能将伊朗排除出世界杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%EF%BC%9A%E6%97%A0%E4%BA%BA%E8%83%BD%E5%B0%86%E4%BC%8A%E6%9C%97%E6%8E%92%E9%99%A4%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时37分]"
+        },
+        {
+          "title": "美国打击伊朗箭在弦上了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E7%AE%AD%E5%9C%A8%E5%BC%A6%E4%B8%8A%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://news.ifeng.com/c/8qJyCJGShwb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
+          "title": "美国国防部长：（谈伊朗）他们拥有达成协议的所有选项，但我们将做好采取行动的准备。",
+          "url": "https://flash.jin10.com/detail/20260130015550554800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时38分]"
+        },
+        {
+          "title": "据伊朗外交部：伊朗外交部长会见了土耳其外交部长。",
+          "url": "https://flash.jin10.com/detail/20260130181222913800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
+          "url": "https://flash.jin10.com/detail/20260130000241124800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "市场消息：伊朗和阿联酋总统举行通话。",
+          "url": "https://flash.jin10.com/detail/20260130185939508800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "伊朗外长：伊美谈判应在公平、平等的前提下进行",
+          "url": "https://wallstreetcn.com/livenews/3047461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "伊朗首都启动战时避难设施建设规划",
+          "url": "https://flash.jin10.com/detail/20260130055304061800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "土耳其总统府：土耳其总统埃尔多安在通话中告知伊朗总统佩泽希齐扬，土耳其已准备好在伊美之间发挥调解作用，以缓解紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260130172020707800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "伊朗外长与多国外长通话，就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3046595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "据土耳其广播电视公司：土耳其总统埃尔多安会见伊朗外交部长。",
+          "url": "https://flash.jin10.com/detail/20260130214611054800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "伊朗外长：欧盟在地区危机中“推波助澜”，损害自身利益",
+          "url": "https://wallstreetcn.com/livenews/3046604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
+          "url": "https://wallstreetcn.com/livenews/3046959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "希腊向船东们发出警告：可能得情况下，勿要靠近伊朗海岸。",
+          "url": "https://wallstreetcn.com/livenews/3047455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "伊朗外交部长：欧洲将伊朗革命卫队列为“恐怖组织”是重大战略失误。",
+          "url": "https://flash.jin10.com/detail/20260129235605039800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "伊朗首都启动战时避难设施建设规划",
+          "url": "https://wallstreetcn.com/livenews/3046709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "伊朗被曝将在霍尔木兹海峡举行实弹军事演习",
+          "url": "https://wallstreetcn.com/livenews/3046582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美又一驱逐舰抵达 伊朗将实弹演习",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%88%E4%B8%80%E9%A9%B1%E9%80%90%E8%88%B0%E6%8A%B5%E8%BE%BE+%E4%BC%8A%E6%9C%97%E5%B0%86%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美国财政部更新与伊朗相关的制裁名单，制裁两家据悉与伊朗伊斯兰革命卫队有关联的实体。",
+          "url": "https://flash.jin10.com/detail/20260130231037738800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -1626,328 +2093,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "伊朗随时准备“扣动扳机”",
-          "url": "https://news.ifeng.com/c/8qKNo2ddMDD",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 16时52分]"
-        },
-        {
-          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时01分 ~ 22时43分]"
-        },
-        {
-          "title": "伊朗：美若动武 伊将打击以色列",
-          "url": "https://www.douyin.com/hot/2382618",
-          "source": "抖音",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 07时35分]"
-        },
-        {
-          "title": "美军兵临城下，伊朗如何反击？",
-          "url": "https://news.ifeng.com/c/8qL149kv1KE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时45分 ~ 22时43分]"
-        },
-        {
-          "title": "伊朗将在霍尔木兹海峡实弹军演",
-          "url": "https://news.ifeng.com/c/8qLFoaR3TwV",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
-        },
-        {
-          "title": "普京表示正密切关注伊朗问题相关进展",
-          "url": "https://www.toutiao.com/trending/7600644867940974598/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            18,
-            24,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时40分]"
-        },
-        {
-          "title": "伊朗外交部声明：以最强烈措辞谴责欧盟对革命卫队作出“非法且毫无根据”的认定。将一国官方军事机构列为“恐怖组织”是危险之举。伊朗人民保留对其采取对等措施以回应欧盟决定的合法权利。",
-          "url": "https://flash.jin10.com/detail/20260130040147239800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，任何对伊朗的攻击都将立即遭到果断回应。佩泽希齐扬在与阿联酋总统的电话交谈中表示，伊朗始终选择通过互动和对话解决问题，不欢迎任何形式的战争。",
-          "url": "https://flash.jin10.com/detail/20260130190228935800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
-          "url": "https://www.cls.cn/detail/2274975",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时01分]"
-        },
-        {
-          "title": "曝伊朗4万吨“航母”出动",
-          "url": "https://www.toutiao.com/trending/7601069328506555931/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时37分]"
-        },
-        {
-          "title": "伊朗足协：无人能将伊朗排除出世界杯",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%EF%BC%9A%E6%97%A0%E4%BA%BA%E8%83%BD%E5%B0%86%E4%BC%8A%E6%9C%97%E6%8E%92%E9%99%A4%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 05时37分]"
-        },
-        {
-          "title": "美国打击伊朗箭在弦上了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E7%AE%AD%E5%9C%A8%E5%BC%A6%E4%B8%8A%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
-        },
-        {
-          "title": "欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
-          "url": "https://news.ifeng.com/c/8qJyCJGShwb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时35分]"
-        },
-        {
-          "title": "美国国防部长：（谈伊朗）他们拥有达成协议的所有选项，但我们将做好采取行动的准备。",
-          "url": "https://flash.jin10.com/detail/20260130015550554800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时38分]"
-        },
-        {
-          "title": "据伊朗外交部：伊朗外交部长会见了土耳其外交部长。",
-          "url": "https://flash.jin10.com/detail/20260130181222913800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
-          "url": "https://flash.jin10.com/detail/20260130000241124800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "市场消息：伊朗和阿联酋总统举行通话。",
-          "url": "https://flash.jin10.com/detail/20260130185939508800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "伊朗首都启动战时避难设施建设规划",
-          "url": "https://flash.jin10.com/detail/20260130055304061800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "土耳其总统府：土耳其总统埃尔多安在通话中告知伊朗总统佩泽希齐扬，土耳其已准备好在伊美之间发挥调解作用，以缓解紧张局势。",
-          "url": "https://flash.jin10.com/detail/20260130172020707800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "伊朗外长与多国外长通话，就地区局势交换意见",
-          "url": "https://wallstreetcn.com/livenews/3046595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "据土耳其广播电视公司：土耳其总统埃尔多安会见伊朗外交部长。",
-          "url": "https://flash.jin10.com/detail/20260130214611054800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "伊朗外长：欧盟在地区危机中“推波助澜”，损害自身利益",
-          "url": "https://wallstreetcn.com/livenews/3046604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
-          "url": "https://wallstreetcn.com/livenews/3046959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "伊朗外交部长：欧洲将伊朗革命卫队列为“恐怖组织”是重大战略失误。",
-          "url": "https://flash.jin10.com/detail/20260129235605039800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "伊朗首都启动战时避难设施建设规划",
-          "url": "https://wallstreetcn.com/livenews/3046709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "伊朗被曝将在霍尔木兹海峡举行实弹军事演习",
-          "url": "https://wallstreetcn.com/livenews/3046582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美又一驱逐舰抵达 伊朗将实弹演习",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%88%E4%B8%80%E9%A9%B1%E9%80%90%E8%88%B0%E6%8A%B5%E8%BE%BE+%E4%BC%8A%E6%9C%97%E5%B0%86%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -1958,8 +2105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时35分 ~ 22时43分]"
+          "appearance_count": 16,
+          "time_info": "[07时35分 ~ 23时44分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -2009,13 +2156,24 @@
           "time_info": "[22时42分 ~ 22时43分]"
         },
         {
+          "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-30）",
           "url": "https://flash.jin10.com/detail/20260130220954692800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -2024,11 +2182,12 @@
           "url": "https://wallstreetcn.com/livenews/3047445",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时44分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -2181,7 +2340,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -2257,7 +2416,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -2290,7 +2449,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -2417,7 +2576,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         }
