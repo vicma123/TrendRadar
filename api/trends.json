@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T06:32:47.126175+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-02-01T07:31:56.690035+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗方面否认大不里士市发生爆炸事件",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸 已致1死14伤",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -51,8 +51,24 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗阿巴斯港楼房爆炸致1死14伤",
+          "url": "https://www.douyin.com/hot/2385538",
+          "source": "抖音",
+          "ranks": [
+            2,
+            19,
+            13,
+            10,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗方面否认大不里士市发生爆炸事件",
@@ -65,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "以色列官员否认以方与伊朗多地爆炸事件有关",
@@ -79,23 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗阿巴斯港楼房爆炸致1死14伤",
-          "url": "https://www.douyin.com/hot/2385538",
-          "source": "抖音",
-          "ranks": [
-            2,
-            19,
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗军方表示已完成备战随时待发",
@@ -105,8 +106,55 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗阿巴斯港一楼房发生爆炸",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E4%B8%80%E6%A5%BC%E6%88%BF%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗革命卫队否认海军司令遇刺",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%90%A6%E8%AE%A4%E6%B5%B7%E5%86%9B%E5%8F%B8%E4%BB%A4%E9%81%87%E5%88%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
+          "url": "https://flash.jin10.com/detail/20260131214310942800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗革命卫队否认海军司令遇刺",
@@ -120,53 +168,6 @@
           "time_info": "[00时39分 ~ 06时32分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗阿巴斯港一楼房发生爆炸",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E4%B8%80%E6%A5%BC%E6%88%BF%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗革命卫队否认海军司令遇刺",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%90%A6%E8%AE%A4%E6%B5%B7%E5%86%9B%E5%8F%B8%E4%BB%A4%E9%81%87%E5%88%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
-          "url": "https://flash.jin10.com/detail/20260131214310942800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
           "title": "伊朗南呼罗珊省逮捕百余名参与骚乱主要成员",
           "url": "https://wallstreetcn.com/livenews/3047703",
           "source": "华尔街见闻-快讯",
@@ -177,8 +178,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗南呼罗珊省逮捕百余名参与骚乱主要成员",
@@ -188,8 +189,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸 约10人受伤",
@@ -202,8 +203,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗当地消防局长：阿巴斯港居民楼爆炸原因正在调查中",
@@ -216,8 +217,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队表示，有关伊斯兰革命卫队海军司令唐西里遇刺的传言不实。",
@@ -227,8 +228,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗南部一居民楼爆炸 伊媒否认高级指挥官遇刺",
@@ -241,8 +242,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗当地消防局长：阿巴斯港居民楼爆炸原因正在调查中",
@@ -252,8 +253,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗南部一栋楼房发生爆炸，伊方否认革命卫队指挥官遭袭传闻",
@@ -263,8 +264,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "市场消息：伊朗南部阿巴斯港发生爆炸，伊朗媒体否认革命卫队指挥官是袭击目标的报道。",
@@ -274,8 +275,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
@@ -334,8 +335,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "凤凰记者连线：伊朗一居民楼爆炸，革命卫队否认海军司令遇刺",
+          "url": "https://news.ifeng.com/c/8qN8KqiPnlf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -348,11 +360,12 @@
           "url": "https://www.cls.cn/detail/2276487",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -363,8 +376,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -374,8 +387,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -388,8 +401,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
@@ -399,8 +412,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
@@ -411,8 +424,42 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
+          "url": "https://wallstreetcn.com/livenews/3047726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时43分 ~ 07时31分]"
+        },
+        {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时43分 ~ 07时31分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -424,40 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时31分]"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
-          "url": "https://wallstreetcn.com/articles/3764623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时43分 ~ 06时32分]"
-        },
-        {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时43分 ~ 06时32分]"
         },
         {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
@@ -486,8 +499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -498,8 +511,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "金价波动",
@@ -512,8 +525,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -524,11 +537,12 @@
             13,
             1,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -541,8 +555,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时31分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -551,11 +565,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时43分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[02时43分 ~ 07时31分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -597,8 +612,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -611,8 +626,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -622,8 +637,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -633,8 +648,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -644,8 +659,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时35分 ~ 06时32分]"
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 07时31分]"
         }
       ]
     },
@@ -664,8 +679,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         }
       ]
     },
@@ -681,8 +696,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
         }
       ]
     }
