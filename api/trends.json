@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T18:34:44.474688+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-01-31T19:28:30.247665+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 19时28分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 19时28分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -94,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时37分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时37分 ~ 19时28分]"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -118,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 19时28分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -131,6 +131,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 07时34分]"
+        },
+        {
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 19时28分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -174,6 +188,19 @@
           "time_info": "[00时51分 ~ 07时34分]"
         },
         {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[06时35分 ~ 19时28分]"
+        },
+        {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
           "url": "https://www.cls.cn/detail/2276010",
           "source": "财联社热门",
@@ -185,19 +212,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时51分 ~ 12时41分]"
-        },
-        {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时35分 ~ 18时34分]"
         },
         {
           "title": "俄方：普京收到了特朗普的请求",
@@ -215,20 +229,6 @@
           "time_info": "[00时51分 ~ 07时34分]"
         },
         {
-          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
-          "url": "https://wallstreetcn.com/articles/3764623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 18时34分]"
-        },
-        {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
           "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
           "source": "凤凰网",
@@ -239,6 +239,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 04时40分]"
+        },
+        {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 19时28分]"
         },
         {
           "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
@@ -266,19 +280,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时40分 ~ 10时37分]"
-        },
-        {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 18时34分]"
         },
         {
           "title": "特朗普驱赶ABC记者",
@@ -340,6 +341,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时28分]"
         },
         {
           "title": "美国边境事务主管霍曼：我传达的信息与自1月20日特朗普总统入主白宫以来的一贯立场完全一致，即我们将开展大规模驱逐行动，但会优先逮捕犯罪分子和公共安全威胁者。",
@@ -444,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时36分]"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "特朗普起诉美国财政部和国税局，索赔至少 100 亿美元，如何看待此举？他持续起诉的核心目的是什么？",
@@ -627,6 +628,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
+          "url": "https://flash.jin10.com/detail/20260131184250363800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "美国多艘航母、战斗舰已抵达中东！特朗普：计划同伊朗对话，“希望”不动用武力",
           "url": "https://wallstreetcn.com/articles/3764535",
           "source": "华尔街见闻",
@@ -658,6 +670,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "特朗普又破防了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "墨西哥总统辛鲍姆：美国总统特朗普在周四的通话中未提及古巴。",
@@ -718,7 +752,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国宣布对伊朗最新制裁措施",
@@ -785,6 +819,17 @@
           "time_info": "[14时52分 ~ 17时37分]"
         },
         {
+          "title": "伊朗总统谴责美以欧煽动仇恨",
+          "url": "https://wallstreetcn.com/livenews/3047682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "释新闻｜美军打击“箭在弦上”，伊朗有哪些应对手段？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498029",
           "source": "澎湃新闻",
@@ -824,6 +869,32 @@
           "time_info": "[14时52分 ~ 17时37分]"
         },
         {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://wallstreetcn.com/livenews/3047663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
+        {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://flash.jin10.com/detail/20260131164253443800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
+        {
           "title": "普京会见伊朗最高领袖顾问拉里贾尼",
           "url": "https://wallstreetcn.com/livenews/3047532",
           "source": "华尔街见闻-快讯",
@@ -835,30 +906,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 04时40分]"
-        },
-        {
-          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
-          "url": "https://wallstreetcn.com/livenews/3047663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时34分]"
-        },
-        {
-          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
-          "url": "https://flash.jin10.com/detail/20260131164253443800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时34分]"
         },
         {
           "title": "美国对伊朗实施新一轮制裁",
@@ -929,6 +976,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "伊朗4万吨“航母”出动能威慑美军吗",
+          "url": "https://www.toutiao.com/trending/7601295118858980915/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "伊朗最高领袖顾问称掌握敌方作战计划",
           "url": "https://www.toutiao.com/trending/7600647624919698987/",
           "source": "今日头条",
@@ -965,7 +1023,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -977,8 +1035,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时35分 ~ 18时34分]"
+          "appearance_count": 14,
+          "time_info": "[06时35分 ~ 19时28分]"
         },
         {
           "title": "金价",
@@ -1007,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时41分 ~ 16时41分]"
+        },
+        {
+          "title": "金价30小时暴跌670美元 后市怎么走",
+          "url": "https://www.toutiao.com/trending/7601454930070605321/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
@@ -1112,6 +1181,18 @@
           "time_info": "[01时41分 ~ 01时42分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时28分]"
+        },
+        {
           "title": "金价史诗级大幅震荡",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E5%B9%85%E9%9C%87%E8%8D%A1%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1123,15 +1204,15 @@
           "time_info": "07时34分"
         },
         {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
+          "title": "马光远：黄金价格进入算命阶段",
+          "url": "https://www.toutiao.com/trending/7601147470961184275/",
+          "source": "今日头条",
           "ranks": [
-            20
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "19时28分"
         },
         {
           "title": "专家称金价大跌是牛市调整",
@@ -1162,6 +1243,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时37分 ~ 19时28分]"
+        },
+        {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
           "url": "https://wallstreetcn.com/articles/3764541",
           "source": "华尔街见闻",
@@ -1171,17 +1263,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 06时36分]"
-        },
-        {
-          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时37分 ~ 18时34分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -1206,8 +1287,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时37分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时37分 ~ 19时28分]"
         },
         {
           "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
@@ -1310,7 +1391,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
@@ -1349,6 +1430,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时40分]"
+        },
+        {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
+          "url": "https://www.zhihu.com/question/2000516785095537569",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 14时52分]"
+        },
+        {
+          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3047621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17,
+            21,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时36分]"
         }
       ]
     },
@@ -1392,40 +1529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
-          "url": "https://www.zhihu.com/question/2000516785095537569",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 14时52分]"
-        },
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17,
-            21,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时37分 ~ 15时36分]"
         }
       ]
     },
